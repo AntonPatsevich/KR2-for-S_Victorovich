@@ -1,0 +1,7 @@
+C:\Users\anton\OneDrive\Документы\Visual Studio 2017\Projects\ConsoleApp74\ConsoleApp74\bin\Debug\ConsoleApp74.exe.config
+C:\Users\anton\OneDrive\Документы\Visual Studio 2017\Projects\ConsoleApp74\ConsoleApp74\bin\Debug\ConsoleApp74.exe
+C:\Users\anton\OneDrive\Документы\Visual Studio 2017\Projects\ConsoleApp74\ConsoleApp74\bin\Debug\ConsoleApp74.pdb
+C:\Users\anton\OneDrive\Документы\Visual Studio 2017\Projects\ConsoleApp74\ConsoleApp74\obj\Debug\ConsoleApp74.csprojResolveAssemblyReference.cache
+C:\Users\anton\OneDrive\Документы\Visual Studio 2017\Projects\ConsoleApp74\ConsoleApp74\obj\Debug\ConsoleApp74.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Документы\Visual Studio 2017\Projects\ConsoleApp74\ConsoleApp74\obj\Debug\ConsoleApp74.exe
+C:\Users\anton\OneDrive\Документы\Visual Studio 2017\Projects\ConsoleApp74\ConsoleApp74\obj\Debug\ConsoleApp74.pdb
